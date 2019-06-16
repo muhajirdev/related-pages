@@ -17,7 +17,7 @@ const pages: Pages[] = [
 
 const tags = ["unit-test", "mocha", "jest"];
 
-const exptected = {
+const expected = {
   slug: "writing-an-article",
   tags: ["write", "article", "document"]
 };
