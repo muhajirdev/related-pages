@@ -1,5 +1,7 @@
 # Related Pages
 
+![](https://user-images.githubusercontent.com/12745166/59559344-16afe680-902f-11e9-8640-088327623036.png)
+
 ## Getting Started
 
 ### Installation
