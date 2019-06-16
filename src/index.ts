@@ -2,7 +2,7 @@ import _ from "lodash";
 
 type Tag = string;
 export type Page = {
-  slug: string;
+  [key: string]: any;
   tags: Tag[];
 };
 
@@ -13,8 +13,7 @@ const countMatchedTags = (tags1: Tag[], tags2: Tag[]) =>
 
 export const relatedPagesByTags: RelatedPagesByTags = (pages, tags) =>
   _.map(pages, x => ({
-    slug: x.slug,
-    tags: x.tags,
+    ...x,
     _score: countMatchedTags(x.tags, tags)
   }))
     .filter(x => x._score > 0)
