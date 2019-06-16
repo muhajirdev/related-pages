@@ -1,6 +1,6 @@
-import { relatedPagesByTags, Pages } from "./index";
+import { relatedPagesByTags, Page } from "./index";
 
-const pages: Pages[] = [
+const pages: Page[] = [
   {
     slug: "writing-an-article",
     tags: ["write", "article", "document"]
@@ -15,11 +15,15 @@ const pages: Pages[] = [
   }
 ];
 
-const tags = ["unit-test", "mocha", "jest"];
+const tags = ["mocha"];
 
 const expected = {
-  slug: "writing-an-article",
-  tags: ["write", "article", "document"]
+  slug: "how-to-write-unit-test",
+  tags: ["unit-test", "jest", "mocha", "tutorial"]
 };
 
-test("should sort article by matching tags", () => {});
+test("should sort article by matching tags", () => {
+  const result = relatedPagesByTags(pages, tags);
+  console.log(result);
+  expect(result[0]).toEqual(expected);
+});
