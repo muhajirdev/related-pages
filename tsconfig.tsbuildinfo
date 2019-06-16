@@ -1,0 +1,150 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/muhammadmuhajir/.config/yarn/global/node_modules/typescript/lib/lib.d.ts": {
+        "version": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0",
+        "signature": "49ff9798f592c8b7e628fd881401e68810c1b3589ecd7a41b32b3c287374cde0"
+      },
+      "/users/muhammadmuhajir/.config/yarn/global/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/muhammadmuhajir/.config/yarn/global/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4",
+        "signature": "973df4e41aea3780ce77073777d37dd5896f684124f4c42409f3a832133837a4"
+      },
+      "/users/muhammadmuhajir/.config/yarn/global/node_modules/typescript/lib/lib.webworker.importscripts.d.ts": {
+        "version": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b",
+        "signature": "fe4e59403e34c7ff747abe4ff6abbc7718229556d7c1a5b93473fb53156c913b"
+      },
+      "/users/muhammadmuhajir/.config/yarn/global/node_modules/typescript/lib/lib.scripthost.d.ts": {
+        "version": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9",
+        "signature": "b9faa17292f17d2ad75e34fac77dd63a6403af1dba02d39cd0cbb9ffdf3de8b9"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/src/index.ts": {
+        "version": "c74044a1eab8dc8da3e9b61e0b0d04d01fc40f1c4469c40cc01366d8cb25afe4",
+        "signature": "8d555a0100d175df5e3435d9e121c4be0dda1cc261dfbd4e2c6c6bf91435db2e"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts": {
+        "version": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57",
+        "signature": "9eac0dd4de5669db2b8321dffa400b997f7b21181118efc7a2c1743d93d4be57"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__generator/index.d.ts": {
+        "version": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3",
+        "signature": "19fb2161edf60fbe73ee3650c1cee889df0525ed852eff2d5fa6e5480c132ae3"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__traverse/index.d.ts": {
+        "version": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa",
+        "signature": "44d81327b8fbb2d7ca0701f5b7bb73e48036eb99a87356acf95f19ed96e907aa"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts": {
+        "version": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f",
+        "signature": "67fb81fcd13edc5410665fa72892dd0878654b54946e8b0f10af5adc234bfe8f"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__template/index.d.ts": {
+        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__core/index.d.ts": {
+        "version": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420",
+        "signature": "8f279d393b3572c5c0a8428d46d00281c38a5ef52dc9dd513fc861c31a5d6420"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/eslint-visitor-keys/index.d.ts": {
+        "version": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c",
+        "signature": "725d9be2fd48440256f4deb00649adffdbc5ecd282b09e89d4e200663792c34c"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-coverage/index.d.ts": {
+        "version": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd",
+        "signature": "9e951ec338c4232d611552a1be7b4ecec79a8c2307a893ce39701316fe2374bd"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-report/index.d.ts": {
+        "version": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2",
+        "signature": "70c61ff569aabdf2b36220da6c06caaa27e45cd7acac81a1966ab4ee2eadc4f2"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-reports/index.d.ts": {
+        "version": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b",
+        "signature": "93b59bc67329d5add033e3198583c39aa939cef891e6a2b763e0bea2b514ea9b"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/stack-utils/index.d.ts": {
+        "version": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49",
+        "signature": "41422586881bcd739b4e62d9b91cd29909f8572aa3e3cdf316b7c50f14708d49"
+      },
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/yargs/index.d.ts": {
+        "version": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5",
+        "signature": "8f3237f03af87871a18d49ff52dec94d71eabecca464d5f2a81e34b55fb60bb5"
+      }
+    },
+    "options": {
+      "target": 1,
+      "module": 1,
+      "declarationMap": true,
+      "sourceMap": true,
+      "outDir": "/Users/muhammadmuhajir/dev/muhajirdev/related-pages/dist",
+      "rootDir": "/Users/muhammadmuhajir/dev/muhajirdev/related-pages/src",
+      "composite": true,
+      "strict": true,
+      "esModuleInterop": true,
+      "configFilePath": "/Users/muhammadmuhajir/dev/muhajirdev/related-pages/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__template/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__core/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__generator/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__template/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__core/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__generator/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__traverse/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__template/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__template/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/parser/typings/babel-parser.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__traverse/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/babel__generator/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@babel/types/lib/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-reports/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-report/index.d.ts",
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ],
+      "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-report/index.d.ts": [
+        "/users/muhammadmuhajir/dev/muhajirdev/related-pages/node_modules/@types/istanbul-lib-coverage/index.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": []
+  },
+  "version": "3.5.2"
+}

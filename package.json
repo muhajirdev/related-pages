@@ -1,0 +1,23 @@
+{
+  "name": "related-pages",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.4",
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-typescript": "^7.3.3",
+    "@types/jest": "^24.0.14",
+    "@typescript-eslint/eslint-plugin": "^1.10.2",
+    "@typescript-eslint/parser": "^1.10.2",
+    "babel-jest": "^24.8.0",
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0",
+    "typescript": "^3.5.2"
+  }
+}
