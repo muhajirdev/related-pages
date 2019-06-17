@@ -24,8 +24,6 @@ import { relatedPagesByTags } from "related-pages";
 // or if you're in nodejs environment
 const { relatedPagesByTags } = require("related-pages");
 
-const re
-
 const pages = [
   {
     slug: "writing-an-article",
