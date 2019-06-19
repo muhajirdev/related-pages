@@ -17,6 +17,10 @@ export const relatedPagesByTags: RelatedPagesByTags = (pages, tags) =>
     _score: countMatchedTags(x.tags, tags)
   }))
     .filter(x => x._score > 0)
-    .sort(x => x._score)
-    .reverse()
+    .sort((a, b) => {
+      if (a._score > b._score) {
+        return -1;
+      }
+      return 1;
+    })
     .map(x => _.omit(x, "_score"));
